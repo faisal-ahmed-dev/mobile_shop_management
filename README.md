@@ -6,8 +6,6 @@ This Mobile Shop Management System is a web-based application developed using PH
 
 ---
 
-# Mobile Shop eCommerce Website
-
 ## Overview
 
 This project is an eCommerce mobile shop website built using PHP. It allows users to browse mobile phones, add them to their cart, and make purchases.
